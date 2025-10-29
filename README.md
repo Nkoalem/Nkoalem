@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nkoalem
-- 👀 I’m interested in software development
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me nkoalem@gmail.com
